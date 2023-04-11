@@ -1,7 +1,7 @@
-import Layout from "@/layout/layout";
 import { type NextPage } from "next";
 import Head from "next/head";
 import Image from "next/image";
+import Layout from "../layout/layout";
 
 const Home: NextPage = () => {
   // const hello = api.example.hello.useQuery({ text: "from tRPC" });

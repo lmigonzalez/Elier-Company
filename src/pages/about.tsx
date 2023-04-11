@@ -1,6 +1,6 @@
 import { type NextPage } from "next/types";
 import Image from "next/image";
-import Layout from "@/layout/layout";
+import Layout from "../layout/layout";
 
 const AboutUs: NextPage = () => {
   return (
