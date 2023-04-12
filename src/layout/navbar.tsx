@@ -5,7 +5,7 @@ const list: { name: string; link: string }[] = [
   { name: "Home", link: "/" },
   { name: "Services", link: "/services" },
   { name: "Gallery", link: "/gallery" },
-  { name: "About Us", link: "/aboutus" },
+  { name: "About Us", link: "/about" },
 ];
 
 const NavBar: FC = () => {
